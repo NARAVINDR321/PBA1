@@ -1,1 +1,1 @@
-# PYTHON BASIC ASSIGNMENTS ---Ineuron,ai
+# PYTHON BASIC ASSIGNMENTS ---Ineuron.ai
